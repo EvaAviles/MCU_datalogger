@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid bc97bb5c-d862-4f35-9060-99c47e294056)
+  (uuid b59c27e4-ba26-49f0-a007-0ae0c011870b)
 
   (paper "A4")
 
@@ -348,7 +348,7 @@
     (uuid 5fb22c08-31bf-4181-9a6c-01b76e8777df)
     (property "Reference" "J2" (id 0) (at 65.405 30.48 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 65.405 33.02 0))
-    (property "Footprint" "" (id 2) (at 64.77 38.1 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" (id 2) (at 64.77 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 64.77 38.1 0)
@@ -366,7 +366,7 @@
     (uuid 9438a734-8134-43e2-a5c9-5138cbb5068d)
     (property "Reference" "J3" (id 0) (at 93.345 25.4 0))
     (property "Value" "Conn_01x09_Male" (id 1) (at 93.345 27.94 0))
-    (property "Footprint" "" (id 2) (at 92.71 40.64 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (id 2) (at 92.71 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 92.71 40.64 0)
@@ -389,7 +389,7 @@
     (uuid 9f8eaf09-b0aa-460a-bab1-ff5a03164fce)
     (property "Reference" "J4" (id 0) (at 118.11 29.21 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 118.11 31.75 0))
-    (property "Footprint" "" (id 2) (at 116.84 38.1 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (id 2) (at 116.84 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 116.84 38.1 0)
@@ -409,7 +409,7 @@
     (uuid dd51b0cd-843f-4f0b-b9ac-86541f276f95)
     (property "Reference" "J1" (id 0) (at 40.005 31.75 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 40.005 34.29 0))
-    (property "Footprint" "" (id 2) (at 39.37 39.37 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 39.37 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 39.37 39.37 0)
