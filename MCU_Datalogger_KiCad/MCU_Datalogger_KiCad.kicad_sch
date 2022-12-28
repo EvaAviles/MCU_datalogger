@@ -1545,7 +1545,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f69111e9-6e7a-4c56-8282-f3fe54d7b111)
   )
-  (label "SDK" (at 193.04 59.69 180)
+  (label "SCK" (at 193.04 59.69 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fd327f6f-252d-4023-85b9-e70e8c1c64e0)
   )
