@@ -441,7 +441,7 @@
     (uuid 5fb22c08-31bf-4181-9a6c-01b76e8777df)
     (property "Reference" "J2" (id 0) (at 65.405 30.48 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 65.405 33.02 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" (id 2) (at 64.77 38.1 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 64.77 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 64.77 38.1 0)

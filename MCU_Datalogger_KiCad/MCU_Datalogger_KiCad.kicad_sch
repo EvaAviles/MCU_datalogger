@@ -801,7 +801,6 @@
     )
   )
 
-
   (junction (at 242.57 39.37) (diameter 0) (color 0 0 0 0)
     (uuid 03fa70af-9143-4ec2-b979-407662696ca4)
   )
@@ -2389,7 +2388,7 @@
       (reference "J1") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/c2f8e36c-d74a-4eb7-bc05-5c3dc0b68689/5fb22c08-31bf-4181-9a6c-01b76e8777df"
-      (reference "J2") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/c2f8e36c-d74a-4eb7-bc05-5c3dc0b68689/9438a734-8134-43e2-a5c9-5138cbb5068d"
       (reference "J3") (unit 1) (value "Conn_01x09_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
